@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jnyVerdi
+- 👋 Hi, I’m Verdi [@jnyVerdi]
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Interactive Quiz Website Project similiar to Mentimeter
